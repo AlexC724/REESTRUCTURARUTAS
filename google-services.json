@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926914459186",
+    "firebase_url": "https://reestruct-6cbbd-default-rtdb.firebaseio.com",
+    "project_id": "reestruct-6cbbd",
+    "storage_bucket": "reestruct-6cbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926914459186:android:1b282c1fdef68d50f3ae2b",
+        "android_client_info": {
+          "package_name": "com.example.reestructurarutas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926914459186-jnlcfg2mkmg51n27kh45uoc1o2o0eqg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_D6vLHMzk_y3sVTy2_HXFIJic4jCU918"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926914459186-jnlcfg2mkmg51n27kh45uoc1o2o0eqg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
